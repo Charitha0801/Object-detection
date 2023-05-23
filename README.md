@@ -16,9 +16,9 @@ The object detector component utilizes computer vision techniques to identify in
 2) R.Charitha
 3) T.Kavya
 4) K.Aashritha
-5) K.Snehitha
-6) B.Charitha
-7) R.Manipal Reddy
+5) R.Manipal Reddy
+6) K.Snehitha
+7) B.Charitha
 # Usage
 Download the Thonny python IDE.
 Install Thonny python IDE.
